@@ -1,4 +1,4 @@
-#- 👋 Hi, my name is Rafael Souza i'm 19 years old
+- 👋 Hi, my name is Rafael Souza i'm 19 years old
 - 👀 I’m a student of system development
 - 🌱 I’m currently learning Java and others languages like Python and C#.
 - 💞️ I’m looking to collaborate on projects oriented towards technologie.
